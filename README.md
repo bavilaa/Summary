@@ -4,7 +4,7 @@
 
 1. [ World Happiness Prediction (S)](https://github.com/bavilaa/adv_ml/blob/master/Assignment1_f.ipynb)
 
-    This data set contains a list of countries and a set of features like:GDP per capita,Social Support, Healthy life expectancy. Using macine learning algorithms the goal is to find a model that predicts the happiness level of a country using these features. What are the most important variables which determine the happiness level?
+    This data set contains a list of countries and a set of features like:GDP per capita,Social Support, Healthy life expectancy. Using machine learning algorithms the goal is to find a model that predicts the happiness level of a country using these features. What are the most important variables which determine the happiness level of a country?
 
 <html>
 <p align="center">
