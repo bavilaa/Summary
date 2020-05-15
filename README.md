@@ -38,6 +38,20 @@
  
    If the families total spent on restaurants (or any other industry) falls 20%, what happens with the rest of the economy?. Using this simple equation ![P = X 1_n + y](https://render.githubusercontent.com/render/math?math=P%20%3D%20X%201_n%20%2B%20y) it's possible to know the new macroeconomic equilibrium given a shock and answer this kind of questions.
 
+
+
+6. [Sentiment Indicator using Game of Thrones Scripts](https://github.com/bavilaa/nlp_got)
+
+
+ In this project I built a sentiment using the scripts from Game Of Trhones. Next I try to find a correlation between the sentiment score and the IMDB rating.
+
+<html>
+<p align="center">
+<a href="https://ibb.co/Q9r2W2K"><img src="https://i.ibb.co/b1zS4SK/game-of-thrones.jpg" alt="game-of-thrones" border="0"></a>
+
+</p>
+</html>
+
 5. [Don Quixote Text Analysis (U)](https://github.com/bavilaa/quijote)
 
 <html>
