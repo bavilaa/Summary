@@ -5,7 +5,9 @@
     This data set contains a list of countries and a set of features like:GDP per capita,Social Support, Healthy life expectancy. Using macine learning algorithms the goal is to find a model that predicts the happiness level of a country using these features. What are the most important variables which determine the happiness level?
 
 <html>
+<p align="center">
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/Q8Whfkd/Hapiness.jpg" alt="Hapiness" border="0"></a>
+    </p>
 </html>
 
 
@@ -17,7 +19,8 @@
 
 <html>
 <p align="center">
-  <img width="230" height="150" src="https://www.cancer.gov/rare-brain-spine-tumor/sites/g/files/xnrzdm226/files/styles/cgov_article/public/cgov_image/mediaimage/100/200/4/files/PNET%20%28Article%29.jpg?h=db6d5b08&itok=GOerazIK_">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4TfgsGR/brain-tumor.jpg" alt="brain-tumor" border="0"></a>
+
 </p>
 </html>
 
