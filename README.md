@@ -43,8 +43,8 @@
 6. [Sentiment Indicator using Game of Thrones Scripts](https://github.com/bavilaa/nlp_got)
 
 
- In this project I built a sentiment using the scripts from Game Of Trhones. Next I try to find a correlation between the sentiment score and the IMDB rating.
-
+   In this project I built a sentiment using the scripts from Game Of Trhones. Next I try to find a correlation between the sentiment score and the IMDB rating.
+ 
 <html>
 <p align="center">
 <a href="https://ibb.co/Q9r2W2K"><img src="https://i.ibb.co/b1zS4SK/game-of-thrones.jpg" alt="game-of-thrones" border="0"></a>
@@ -52,7 +52,7 @@
 </p>
 </html>
 
-5. [Don Quixote Text Analysis (U)](https://github.com/bavilaa/quijote)
+6. [Don Quixote Text Analysis (U)](https://github.com/bavilaa/quijote)
 
 <html>
 <p align="center">
@@ -60,8 +60,8 @@
 </p>
 </html>
 
-  Don Quixote of la Mancha is the most famous book in Spanish speakers and one of the most read in human history. In this project, I want to make his fame bigger and in the process make some basic natural language processing. The final goal is to create a sentiment indicator and classify the chapters into categories.
-  (in construction)
+   Don Quixote of la Mancha is the most famous book in Spanish speakers and one of the most read in human history. In this project, I want to make his fame bigger and in the process make some basic natural language processing. The final goal is to create a sentiment indicator and classify the chapters into categories.
+   (in construction)
 
 
 
