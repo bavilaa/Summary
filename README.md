@@ -60,8 +60,7 @@
 </p>
 </html>
 
-   Don Quixote of la Mancha is the most famous book in Spanish speakers and one of the most read in human history. In this project, I want to make his fame bigger and in the process make some basic natural language processing. The final goal is to create a sentiment indicator and classify the chapters into categories.
-   (in construction)
+   Don Quixote of la Mancha is the most famous book in Spanish speakers and one of the most read in human history. In this project, I want to make his fame bigger --in nonnative Spanish speakers-- and in the process make some basic natural language processing. The final goal is to create a sentiment indicator and classify the chapters into categories. (in construction)
 
 
 
