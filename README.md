@@ -33,7 +33,7 @@
   A dataset with news articles (BBC) from 5 categories (sport, business, politics, tech, and entertainment) are automatically classified using neural networks : sequentional, convlational and stacked with some variants using bidirectional embedding and dropout.
 
 
-4. [Leontief Macroeconomic Equilibrium (S)](https://github.com/bavilaa/leontief)
+4. [Leontief Macroeconomic Equilibrium ](https://github.com/bavilaa/leontief)
 
  
    If the families total spent on restaurants (or any other industry) falls 20%, what happens with the rest of the economy?. Using this simple equation ![P = X 1_n + y](https://render.githubusercontent.com/render/math?math=P%20%3D%20X%201_n%20%2B%20y) it's possible to know the new macroeconomic equilibrium given a shock and answer this kind of questions.
