@@ -45,7 +45,9 @@
   <img width="230" height="150" src="http://static.plenummedia.com/30644/images/20160505094554-don-quijote-de-la-mancha-web.jpg">
 </p>
 </html>
+
   Don Quixote of la Mancha is the most famous book in Spanish speakers and one of the most read in human history. In this project, I want to make his fame bigger and in the process make some basic natural language processing. The final goal is to create a sentiment indicator and classify the chapters into categories.
+  (in construction)
 
 
 
